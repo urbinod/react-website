@@ -1,0 +1,5 @@
+npm install react-icons
+
+website figma design: https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma
+
+https://getbem.com/introduction/
