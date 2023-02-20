@@ -1,5 +1,15 @@
 # React website
 
+#### To deploy code in github, gh-pages needs to be installed
+
+```
+    npm install -g gh-pages --save-dev
+    Homepage link should be added in the package.json
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    should be added under scripts
+```
+
 ## Deploy the build folder:
 
 ```
