@@ -22,3 +22,8 @@
   border: 1px solid var(--color-golden);
   cursor: pointer;
 }
+
+.app__video-overlay_circle.hide {
+  opacity: 0;
+  visibility: hidden;
+}
