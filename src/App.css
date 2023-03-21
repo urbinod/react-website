@@ -100,8 +100,8 @@
   width: 45px;
 }
 
-@media screen and (min-width: 2000px) {
-  .custom__button,
+@media screen and (min-width: 3000px) {
+  /* .custom__button,
   .p__cormorant {
     font-size: 37px;
     line-height: 67px;
@@ -115,11 +115,11 @@
   .headtext__cormorant {
     font-size: 150px;
     line-height: 210px;
-  }
+  } */
 
-  .spoon__img {
+  /* .spoon__img {
     width: 80px;
-  }
+  } */
 }
 
 @media screen and (max-width: 991px) {
